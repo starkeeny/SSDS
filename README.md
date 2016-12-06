@@ -6,7 +6,7 @@ The clue is that this is done with a password.
 You can use a password store or type the password every time to be more secure.
 
 # Usage #
-* copy the cmd file to a folder of your choice (you can rename the cmd file if you want to
+* copy the cmd file to a folder of your choice (you can rename the cmd file if you want to)
 * create a tool and a data folder
 * copy the 7z.exe into the tool folder (see link above)
 * (optionally) create a password.txt file in the tool folder (one line with the password you want to use)
